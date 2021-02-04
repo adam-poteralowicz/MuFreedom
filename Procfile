@@ -1,0 +1,1 @@
+web: java -jar target/MuFreedom-1.0.jar
